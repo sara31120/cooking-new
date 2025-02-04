@@ -1,0 +1,20 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.ad-container {
+    grid-column: span 1; 
+  }
+  
+  .ad-image {
+    width: 100%; 
+    max-width: 300px; 
+    height: auto; 
+  }
+  
+
+  
