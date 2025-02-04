@@ -18,6 +18,7 @@ const App = () => {
     <Router>
       <div className="App">
         <Header />
+        {/* Navbar */}
         <Navbar />
 
         <Routes>
